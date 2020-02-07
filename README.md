@@ -2,6 +2,7 @@
 
 https://projecteuler.net/
 
+*10 problems solved for now.*
 
 ## Rules
 For those who haven't previously heard of the Euler Project, it's a wonderful website where you can find more than 600 math problems. The aim is to solve them using your mathematical and computational skills.
